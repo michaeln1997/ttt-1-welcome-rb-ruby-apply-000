@@ -3,4 +3,4 @@
 # ruby lib/welcome.rb from your terminal.
 
 
-puts "Welcome to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toel!"
